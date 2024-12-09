@@ -30,6 +30,8 @@ Forked from [rust-companies](https://github.com/omarabid/rust-companies)
 * [Solana](https://jobs.solana.com/jobs?q=UK) - High performance blockchain, rebuilt for scale.
 * [Kraken](https://kraken.com)([1](https://blog.kraken.com/product/engineering/oxidizing-kraken-improving-kraken-infrastructure-using-rust)) - Cryptocurrency exchange, based in the USA.
 
+#### Transportation
+* [Via Transportation](https://ridewithvia.com/careers/jobs) - 
 
 #### Cryptography
 * [Zama - Paris](https://www.zama.ai)([1](https://github.com/zama-ai)) - Open source cryptographic tools that make protecting privacy easy.
@@ -73,6 +75,7 @@ Forked from [rust-companies](https://github.com/omarabid/rust-companies)
   ([GitHub](https://github.com/juspay/hyperswitch)) - An Open Source Financial Switch to make Payments fast, reliable & affordable.
 * [Spoqa](https://www.spoqa.com) - Our POS integration SDK is entirely written in Rust.
 * [TenX](https://tenx.tech) - Building a secure and scalable distributed payments system in Rust.
+* [Smarkets](https://smarkets.com/) - Betting exchange
 
 #### Machine Learning | AI
 
@@ -124,6 +127,7 @@ Forked from [rust-companies](https://github.com/omarabid/rust-companies)
 * [Red Iron](https://red-iron.eu/) ([GitHub](https://github.com/orgs/OCamlPro/repositories?q=&type=all&language=rust)) - Red Iron is the Rust division of OCamlPro, a French consultancy specializing in programming languages, formal methods and high reliability software.
 * [Tweede golf](https://tweedegolf.nl)
   ([GitHub](https://github.com/tweedegolf/)) - Rust and Embedded Rust engineers.
+  * [Red Badger](https://content.red-badger.com/all-jobs) - 
 
 #### Security | Monitoring
 
