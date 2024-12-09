@@ -1,66 +1,38 @@
 # Rust Companies
 
-A curated list of companies using Rust in production, organized by industry.
+A curated list of companies using Rust in production that are UK based, organized by industry.
 
-Inspired by [Elixir's][elixir-companies] and [Elm's][elm-companies] lists.
-
-[elixir-companies]: https://github.com/doomspork/elixir-companies
-[elm-companies]: https://github.com/jah2488/elm-companies
+Forked from [rust-companies](https://github.com/omarabid/rust-companies)
 
 #### Technology
 
-* [360dialog](http://www.360dialog.com) - Most of our service consumers are written with Rust.
-* [Actyx](https://developer.actyx.com) ([GitHub](https://github.com/Actyx)) - Actyx is a peer-to-peer event stream database (a.k.a. reliable durable pub-sub) written completely in Rust
-* [Amazon](https://www.amazon.com)([1](https://aws.amazon.com/blogs/opensource/why-aws-loves-rust-and-how-wed-like-to-help/)) - Here at AWS, we love Rust, too, because it helps AWS write highly performant, safe infrastructure-level networking and other systems software.
-* [Atlassian](https://www.atlassian.com) - We use Rust in a service for analyzing petabytes of source code.
-* [Bencher](https://bencher.dev) ([GitHub](https://github.com/bencherdev/bencher)) - A suite of continuous benchmarking tools designed to catch performance regressions in CI.
-* [Brave](https://brave.com)
-  ([GitHub](https://github.com/brave/adblock-rust)) - Adblock engine for Brave Browser.
-* [Discord](https://discordapp.com)
-  ([1](https://discord.com/blog/using-rust-to-scale-elixir-for-11-million-concurrent-users), [2](https://discord.com/blog/why-discord-is-switching-from-go-to-rust)) - Communication Platform designed for communities.
-* [DungeonFog](https://www.dungeonfog.com/news/project-deios/)
-   ([GitHub](https://github.com/dungeonfog))
-   ([Discord](https://discordapp.com/invite/Ewtsk7g))- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
-* [Figma](https://www.figma.com)([1](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
-* [Fly](https://fly.io)
-  ([GitHub](https://github.com/superfly)) - Globally distributed reverse-proxy and app hosting.
-* [Google](www.google.com) ([1](https://security.googleblog.com/2022/12/memory-safe-languages-in-android-13.html?m=1)) - In Android 13, about 21% of all new native code (C/C++/Rust) is in Rust. There are approximately 1.5 million total lines of Rust code in Android across new functionality and components such as Keystore2, the new Ultra-wideband (UWB) stack, DNS-over-HTTP3, Android’s Virtualization framework (AVF), and various other components and their open source dependencies. These are low-level components that require a systems language which otherwise would have been implemented in C++.
-* [Materialize](https://materialize.com)
-  ([GitHub](https://github.com/MaterializeInc/materialize)) - An engine for incrementally maintaining database views. Materialize core is a single binary written in Rust.
-* [Meta](https://www.facebook.com) ([1](https://github.com/facebookexperimental/eden),[2](https://engineering.fb.com/2022/07/27/developer-tools/programming-languages-endorsed-for-server-side-use-at-meta/)) - Facebook's primary source control system is partially written in Rust.
+* [Amazon](https://www.amazon.jobs/en/locations/unitedkingdom) - Here at AWS, we love Rust, too, because it helps AWS write highly performant, safe infrastructure-level networking and other systems software.
+* [Atlassian](https://www.atlassian.com/company/careers/all-jobs?team=&location=United%20Kingdom) - We use Rust in a service for analyzing petabytes of source code.
+* [Brave]([https://brave.com](https://brave.com/careers/)) - Adblock engine for Brave Browser.
+* [Discord](https://discordapp.com) - Communication Platform designed for communities.
+* [DungeonFog](https://www.dungeonfog.com/news/project-deios/)- New "Project Deios" map maker tool is written completely in rust, everything we can make opensource is hosted on our github.
+* [Figma](https://www.figma.com/careers/#job-openings) - Our real-time multiplayer syncing server (used to edit all Figma documents) is written in Rust.
+* [Google](www.google.com) - In Android 13, about 21% of all new native code (C/C++/Rust) is in Rust. There are approximately 1.5 million total lines of Rust code in Android across new functionality and components such as Keystore2, the new Ultra-wideband (UWB) stack, DNS-over-HTTP3, Android’s Virtualization framework (AVF), and various other components and their open source dependencies. These are low-level components that require a systems language which otherwise would have been implemented in C++.
+* [Meta](https://www.facebook.com) - Facebook's primary source control system is partially written in Rust.
 * [Microsoft](https://www.microsoft.com/) - [windows-rs](https://github.com/microsoft/windows-rs) allows you to call Windows API using Rust. Rust has also been integrated into Windows kernel. There are several Azure services also using Rust, including [Azure IoT Edge](https://github.com/Azure/iotedge) and Kusto, the core query and storage engine for [Azure Data Explorer](https://azure.microsoft.com/en-us/products/data-explorer).
 * [Mozilla](https://www.mozilla.org)
   ([GitHub](https://github.com/mozilla), [Servo](https://servo.org)) - Building the Servo browser engine, integrating into Firefox, other projects.
-* [Qumulo](https://qumulo.com/)([1](https://qumulo.com/blog/rust-programming-language-at-qumulo/), [2](https://qumulo.com/blog/writing-procedural-macros-in-rust/)) - Hybrid cloud storage.
-* [Stackable](https://stackable.tech/)([1](https://github.com/stackabletech/kafka-operator#about-the-stackable-data-platform)) - Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
-* [Svix](https://www.svix.com/) ([GitHub](https://github.com/svix/svix-webhooks)) - The enterprise ready webhooks service
+* [Qumulo](https://qumulo.com/careers/job-openings/) - Hybrid cloud storage.
+* [Stackable](https://jobs.stackable.de/en/)- Creating a modular open source data platform. Rust powers all our operators to help make popular data applications straightforward to run on Kubernetes.
 
 #### Cryptocurrencies
 
-* [Bitfury](http://bitfury.com)([Exonum](https://exonum.com)) - Exonum is an extensible framework for blockchain projects written in Rust.
-* [Cryptape](http://cryptape.com) - Rust makes our permissioned blockchain, CITA, faster and stronger.
+* [Bitfury](https://boards.greenhouse.io/bitfury) - Exonum is an extensible framework for blockchain projects written in Rust.
 * [Fedi](https://fedi.xyz) - Fedi builds on [Fedimint](https://github.com/fedimint/fedimint), a module based system for building federated applications on top of Bitcoin.
-* [Libra](https://libra.org)
-  ([GitHub](https://github.com/libra/libra)) - A global cryptocurrency built by Facebook.
+* [Libra](https://libra.org)- A global cryptocurrency built by Facebook.
 * [MaidSafe](http://www.maidsafe.net) - Building a decentralised data and communications network.
-* [Parity](https://www.parity.io)
-  ([GitHub](https://github.com/paritytech)) - Ethereum Client.
-* [Solana](https://solana.com) - High performance blockchain, rebuilt for scale.
-* [Wildfish](https://wildfish.com) - Fast processing and importing of cryptocurrency market data.
+* [Parity](https://www.parity.io/careers) - Ethereum Client.
+* [Solana](https://jobs.solana.com/jobs?q=UK) - High performance blockchain, rebuilt for scale.
 * [Kraken](https://kraken.com)([1](https://blog.kraken.com/product/engineering/oxidizing-kraken-improving-kraken-infrastructure-using-rust)) - Cryptocurrency exchange, based in the USA.
 
 
 #### Cryptography
-* [Zama](https://www.zama.ai)([1](https://github.com/zama-ai)) - Open source cryptographic tools that make protecting privacy easy.
-
-#### Aerospace
-
-* [Lechev.space](https://lechev.space) ([GitHub](https://github.com/LechevSpace)) - Building various aerospace-related projects including a Ground station service using Rust.
-* [Cryptosat.io](https://cryptosat.io) ([GitHub](https://github.com/cryptosat)) - Building the Trust Infrastructure for Web3, using satellites, in space.
-
-#### Public transport
-
-* [Hove](https://hove.com) ([Github](https://github.com/hove-io) - [1](https://github.com/hove-io/transit_model), [2](https://github.com/hove-io/mimirsbrunn), [3](https://github.com/hove-io/loki)) - Navitia API provides ways to query public transport data, including a multi-criteria journey engine
+* [Zama - Paris](https://www.zama.ai)([1](https://github.com/zama-ai)) - Open source cryptographic tools that make protecting privacy easy.
 
 #### Automation | CI/CD
 
