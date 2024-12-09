@@ -63,6 +63,7 @@ Forked from [rust-companies](https://github.com/omarabid/rust-companies)
   ([1](https://www.ovh.com/world/a2202.paas-logs-management-ovh)) - We used Rust to build a high performance, highly available log management system.
 * [Ceph](https://ceph.io/)([1](https://github.com/ceph/ceph-rust)) Rust bindings for librbd, an interface into the Ceph storage platform.
 * [Tailcall](https://tailcall.run)([1](https://github.com/tailcallhq)) - A cloud native solution to streamline API management across edge, middle, and service layers.
+* [Evroc](https://evroc.com/careers) - sustainable hyperscale cloud
 
 #### Fintech
 
